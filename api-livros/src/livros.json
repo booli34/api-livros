@@ -1,0 +1,24 @@
+  
+[ 
+    {
+        "id": 1, 
+        "titulo": "Um livro comum", 
+        "descricao": "Um livro que expressa uma vida comum.", 
+        "autor": "Desconhecido", 
+        "anoPublicacao": 2000
+    },
+    {
+        "id": 2, 
+        "titulo": "Me sinto bem com você", 
+        "descricao": "Filme do abelha muito legal.", 
+        "autor": "Manu gavassi", 
+        "anoPublicacao": 2021
+    },
+    {
+        "id": 3, 
+        "titulo": "A menina que roubava livros", 
+        "descricao": "ih alá a mina ta roubando livro.", 
+        "autor": "markus zusak", 
+        "anoPublicacao": 2005
+    }
+]
